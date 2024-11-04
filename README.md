@@ -1,3 +1,3 @@
 # ops Intro to Computer Operations notes
 
-please find my reading notes located in my Wiki
+please read my notes located in [My Wiki](https://github.com/zeroknightdx/Intro-to-Computer-Operations-notes)
